@@ -4,5 +4,5 @@ tasks:
 
 vscode:
   extensions:
-    blockstack.clarity
-    lgalabru.clarity-lsp
+    blockstack.clarity@0.0.5
+    lgalabru.clarity-lsp@0.2.15
